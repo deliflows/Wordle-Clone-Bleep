@@ -49,6 +49,7 @@ I play Wordle every day. And when I began coding, I wondered, "What goes into pr
 - [ ] Prompt when a word is too short
 - [ ] Create a user and record their data
 - [ ] Add a how to play the game section
+- [ ] Add keyboard ability on top of touch screen ability
 
 ## Challenges
 - Time managing with less than two(2) weeks to complete. 
