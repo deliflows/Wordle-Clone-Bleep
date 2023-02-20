@@ -80,6 +80,6 @@ function CheckPerfect() {
 ```
 
 Accreditation:
-- Full-Stack Developer:[Betty Lee Carter](https://github.com/deliflows) Ideation, Front-End, Back-End, Deployment, ReadMe-files.
+- Full-Stack Developer:[Betty Lee Carter](https://github.com/deliflows) Ideation, Front-End, Deployment, ReadMe-file.
 
 ## The End.
