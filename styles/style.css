@@ -1,117 +1,117 @@
 .board-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 500px;
-    padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  padding: 100px;
 }
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: sans-serif;
-    font-size: 40px;
-    padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: sans-serif;
+  font-size: 40px;
+  padding-bottom: 20px;
 }
 /* WHERE THE WORDS POP UP */
 .board {
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
 }
 .board-row {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 .board-row div {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: solid rgb(199, 199, 199);
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 40px;
-    height: 60px;
-    width: 60px;
-    padding: 1px;
-    margin: 3px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: solid rgb(199, 199, 199);
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 40px;
+  height: 60px;
+  width: 60px;
+  padding: 1px;
+  margin: 3px;
 }
 .correct {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: none;
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 40px;
-    height: 60px;
-    width: 60px;
-    padding: 1px;
-    margin: 3px;
-    background-color: rgb(63, 173, 63);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 40px;
+  height: 60px;
+  width: 60px;
+  padding: 1px;
+  margin: 3px;
+  background-color: rgb(63, 173, 63);
 }
 .almost {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: none;
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 40px;
-    height: 60px;
-    width: 60px;
-    padding: 1px;
-    margin: 3px;
-    background-color: rgb(245, 224, 4); 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 40px;
+  height: 60px;
+  width: 60px;
+  padding: 1px;
+  margin: 3px;
+  background-color: rgb(245, 224, 4);
 }
 .absent {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: none;
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 40px;
-    height: 60px;
-    width: 60px;
-    padding: 1px;
-    margin: 3px;
-    background-color: rgb(125, 125, 125); 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  font-family: sans-serif;
+  font-size: 40px;
+  height: 60px;
+  width: 60px;
+  padding: 1px;
+  margin: 3px;
+  background-color: rgb(125, 125, 125);
 }
 
 /* KEYBOARD */
 .keyboard {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .row {
-    display: flex;
-    justify-content:center;
+  display: flex;
+  justify-content: center;
 }
 .row div {
-    width: 40px;
-    height: 50px;
-    margin: 2px;
-    font-family: sans-serif;
-    font-size: 30px;
-    background-color: gainsboro;
-    color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: none;
-    border-radius: 5px;
+  width: 40px;
+  height: 50px;
+  margin: 2px;
+  font-family: sans-serif;
+  font-size: 30px;
+  background-color: gainsboro;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
 }
 .row div:hover {
-    background-color: gray;
+  background-color: gray;
 }
 /* .row button:hover {
     background-color: blue;
 } */
 #submit {
-    width: 110px;
+  width: 110px;
 }
 #delete {
-    width: 90px;
+  width: 90px;
 }
